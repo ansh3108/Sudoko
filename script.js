@@ -1,4 +1,3 @@
-
 var numSelected = null;
 var tileSelected = null;
 
